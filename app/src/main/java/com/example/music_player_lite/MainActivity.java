@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
         colorDrawable = new ColorDrawable(Color.parseColor("#FF000000")); // defining color value for action bar
         actionBar = getSupportActionBar(); // getting the action bar to apply custom color
-        actionBar.setBackgroundDrawable(colorDrawable); // setting the back ground color for the action bar
+        actionBar.setBackgroundDrawable(colorDrawable); // setting the back ground color for the action bar hello
 
 
 
